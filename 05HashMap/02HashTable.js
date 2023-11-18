@@ -154,7 +154,6 @@ class HashTable {
 
 const hT = new HashTable();
 
-hT.put('seki', '石深俊');
 hT.put('ssj', 134);
 hT.put('ssj', '456');
 hT.put('a1', '123');
